@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuliaFalstaff
-- 👀 I’m interested in sound design, cinematography, travelling, and android developing
+- 👀 I’m interested in sound design, cinematography, travelling and android developing
 - 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

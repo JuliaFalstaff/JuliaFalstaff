@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaFalstaff&theme=nord_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuliaFalstaff&theme=nord_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuliaFalstaff&theme=nord_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaFalstaff&theme=nord_bright"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuliaFalstaff&theme=nord_bright"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuliaFalstaff&theme=nord_bright"/>
 </div>

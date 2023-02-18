@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 ### About me
 - 🌱 I’m currently learning **Android development**
+- 🌍 I speak English
 - 📄 Know about my experiences [CV](https://hh.ru/resume/215213a2ff0b2933dc0039ed1f6437544a6852)
 - 📫 Reach me by [telegram](https://t.me/falstafff), [email](mailto:j.kholstinina@yandex.ru)
-- 🌍 I speak English
 - 👀 I’m interested in android developing, sound design, cinematography, coffee and travelling 
 
 ### Languages and tools

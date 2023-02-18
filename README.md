@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JuliaFalstaff
-- 👀 I’m interested in sound design, cinematography, travelling and android developing
-- 🌱 I’m currently learning java and kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in android developing, sound design, cinematography, coffee and travelling 
+- 📫 How to reach me: telegram: @falstafff
 
 <!---
 JuliaFalstaff/JuliaFalstaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
